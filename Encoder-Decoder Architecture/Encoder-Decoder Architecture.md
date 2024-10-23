@@ -129,6 +129,6 @@ Attention Mechanism: Improves upon RNNs in transformer models.
 
 # Model
 
-[!Model](./encoder_decoder_RNN_Model.png)
+![Model](./encoder_decoder_RNN_Model.png)
 
 
