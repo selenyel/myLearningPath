@@ -102,8 +102,6 @@ ___________________________________
 
 This state is passed to the softmax layer to produce the word probabilities.
 
-python
-Copy code
 model.add(Dense(VOCAB_SIZE, activation="softmax"))
 
 ---
