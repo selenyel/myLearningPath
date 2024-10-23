@@ -83,18 +83,26 @@ ___________________________________
 | The cat ate the mouse. (finish) |
 ___________________________________
 
-     X ---> unroll the RNN inputs
+|
+|
+|
+|
+|==> X ---> unroll the RNN inputs
      H
 (Hin)|
+     |
      |
      v
      _
   P |Y| ---> Dense softmax layer
      -
      |
+     |
+     |
      v
   ______
-  | Le | ---> First token output
+
+  | Le |  ---> First token output
   ______
 
 
