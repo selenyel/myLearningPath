@@ -120,4 +120,15 @@ Beam Search: Generates more likely sentence chunks.
 Attention Mechanism: Improves upon RNNs in transformer models.
 ```
 
-[!History](./encoder decoder history.png)
+---
+# History
+
+![History](./encoder_decoder_history.png)
+
+---
+
+# Model
+
+[!Model](./encoder_decoder_RNN_Model.png)
+
+
