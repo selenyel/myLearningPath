@@ -118,3 +118,6 @@ Key Notes
 Greedy Search: Takes the highest probability token.
 Beam Search: Generates more likely sentence chunks.
 Attention Mechanism: Improves upon RNNs in transformer models.
+```
+
+[!History](./encoder decoder history.png)
