@@ -1,7 +1,6 @@
 # Summary of Transformers
 
 ## Introduction
-- Hi, I'm **Sanjana Reddy**, a machine learning engineer at Google's Advanced Solutions Lab.
 - There has been significant excitement around generative AI and new advancements, including features like Gen AI Studio, Model Garden, and Gen AI API.
 - This session aims to provide a solid understanding of the underlying concepts behind generative AI, specifically focusing on transformer models and the BERT model.
 
