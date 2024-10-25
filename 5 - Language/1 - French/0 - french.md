@@ -1,8 +1,8 @@
 ### 2. French (Conversational Proficiency)
 This schedule aims to help you reach a conversational level with solid daily comprehension skills.
- |
+ 
 | Day | Task | Duration | Resources |
-|-----|-----------------------|-------|----------------- | ------------|
+|-----|-----------------------|-------|----------------- | 
 | Mon | Vocabulary & phrases  | 30 mins | Memrise, flashcards |
 | Tue | Listening to daily French | 30 mins | Coffee Break French, RFI |
 | Wed | Grammar practice & review | 45 mins | Kwiziq, conjugation exercises |
